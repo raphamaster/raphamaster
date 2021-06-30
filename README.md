@@ -13,6 +13,7 @@ I contributing to the community with [blog posts](http://raphaelfranco.org/) and
 These are some of the technologies and tools that I work with:
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![PowerBI](https://img.shields.io/badge/-powerbi-F2C811?style=flat-square&logo=powerbi&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -20,4 +21,12 @@ These are some of the technologies and tools that I work with:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![PowerBI](https://img.shields.io/badge/-powerbi-F2C811?style=flat-square&logo=powerbi&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/-Adobe XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+
+
+
+
+
