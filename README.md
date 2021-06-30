@@ -28,6 +28,8 @@ These are some of the technologies and tools that I work with:
 ![Adobe XD](https://img.shields.io/badge/-AdobeXD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-FFD500?style=flat-square&logo=shell&logoColor=white)
+![Metabase](https://img.shields.io/badge/-Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
+
 
 
 
