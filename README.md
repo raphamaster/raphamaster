@@ -4,8 +4,8 @@ I'm Raphael Franco, and I'm a Data Engineer and Business Intelligence Analyst at
 
 I contributing to the community with [blog posts](http://raphaelfranco.org/) and [code streaming](https://www.twitch.tv/raphaelfranco). 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/raphaelrfranco?style=social)](https://twitter.com/raphaelrfranco)
-[![Linkedin: raphaelfranco](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphaelfranco/)](https://www.linkedin.com/in/raphaelfranci/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/raphaelfranco?style=social)](https://twitter.com/raphaelfranco)
+[![Linkedin: raphaelfranco](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphaelfranco/)](https://www.linkedin.com/in/raphaelfranco/)
 [![Twitch: raphaelfranco](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/raphaelfranco)](https://www.twitch.tv/raphaelfranco)
 
 ## ⚡ Technologies
