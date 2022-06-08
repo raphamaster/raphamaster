@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Raphael Franco, and I'm a Data Engineer and Business Intelligence Analyst at SicoobCredicitrus.
+I'm Raphael Franco, and I'm a Data Engineer and Business Intelligence Analyst.
 
 I contributing to the community with [blog posts](http://raphaelfranco.org/) and [code streaming](https://www.twitch.tv/raphaelfranco). 
 
