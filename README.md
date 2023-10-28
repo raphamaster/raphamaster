@@ -6,7 +6,6 @@ I contributing to the community with [blog posts](http://raphaelfranco.org/) and
 
 My resume: https://raphaelfranco.org/cv
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/raphaelfranco?style=social)](https://twitter.com/raphaelfranco)
 [![Linkedin: raphaelfranco](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphaelfranco/)](https://www.linkedin.com/in/raphaelfranco/)
 [![Twitch: raphaelfranco](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/raphaelfranco)](https://www.twitch.tv/raphaelfranco)
 
