@@ -15,6 +15,7 @@ These are some of the technologies and tools that I work with:
 
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/-powerbi-F2C811?style=flat-square&logo=powerbi&logoColor=white)
+![Python](https://img.shields.io/badge/-python-2b5b84?style=flat-square&logo=powerbi&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
