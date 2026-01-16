@@ -2,9 +2,9 @@
 
 I'm Raphael Franco, and I'm a Data Engineer and Business Intelligence Analyst.
 
-I contributing to the community with [blog posts](http://raphaelfranco.org/) and [code streaming](https://www.twitch.tv/raphaelfranco). 
+I contributing to the community with [blog posts](http://raphaelfranco.com/).
 
-My resume: https://raphaelfranco.org/cv
+My resume: https://raphaelfranco.com
 
 [![Linkedin: raphaelfranco](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphaelfranco/)](https://www.linkedin.com/in/raphaelfranco/)
 [![Twitch: raphaelfranco](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/raphaelfranco)](https://www.twitch.tv/raphaelfranco)
